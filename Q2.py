@@ -39,6 +39,5 @@ def insert_employees_from_csv(csv_file):
     conn.commit()
     conn.close()
 
-# Example usage
 csv_file = 'employees.csv'
 insert_employees_from_csv(csv_file)

@@ -15,3 +15,6 @@ def sqaurefun(intlist):
 
 newlist = sqaurefun(intList)
 print(newlist)
+
+
+

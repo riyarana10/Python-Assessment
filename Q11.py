@@ -8,7 +8,7 @@
 # 1st method using inbuilt fucntions
 
 inputList = [2,1,2,2,2,3,4,5]
-# givenInt = input("enter number")
+# # givenInt = input("enter number")
 integer = 2
 # occ = inputList.count(integer)
 # print(occ)
@@ -21,6 +21,21 @@ def sortList(mylist,integer):
 
 result = sortList(inputList,integer)
 print(result)
+
+
+# 2nd approach
+
+# def sortacctoNo(inputList):
+#     for i in inputList:
+#         if(i == 2):
+#             temp = i
+#             r = inputList.remove(i)
+#             inputList.append(temp)
+            
+#     return inputList
+
+# result = sortacctoNo(inputList)
+# print(result)
 
 
 

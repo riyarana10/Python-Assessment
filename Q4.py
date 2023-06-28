@@ -11,7 +11,7 @@
 
 
 arr = [3, 5, -4, 8, 11, 1, -1, 6]
-sum = 10
+sum = 8
 
 res = []
 def pairsum(arr,sum,res):
